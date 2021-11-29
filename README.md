@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaximLashevich
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me lashevich1982@gmail.com
+- 👀 I’m interested in C# and JAVA
+- 🌱 I’m currently learning C#
+- 📫 How to reach me: lashevich1982@gmail.com
 
 <!---
 MaximLashevich/MaximLashevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
